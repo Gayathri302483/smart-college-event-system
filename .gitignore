@@ -1,0 +1,17 @@
+# Safe .gitignore for Maven Java project
+# Build artefacts
+target/
+build/
+dist/
+
+# IDE / editor files
+.idea/
+.vscode/
+*.iml
+
+# OS / system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
